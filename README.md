@@ -33,7 +33,7 @@ Pistes d'amélioration
 
 Photos du projet 
 ---------------
-Lien vers un post linkedIn montrant une vidéo du projet(https://www.linkedin.com/posts/kirakosiani_site-web-reactjs-activity-7046397530217054208-qEWu?utm_source=share&utm_medium=member_desktop)
+Lien vers un post linkedIn montrant une vidéo du projet : https://www.linkedin.com/posts/kirakosiani_site-web-reactjs-activity-7046397530217054208-qEWu
 
 Homepage
 ![homepage](https://user-images.githubusercontent.com/112544312/228829426-5aa82c03-2a96-4a7d-85ea-f259b295d35a.png)
