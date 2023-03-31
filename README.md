@@ -4,6 +4,8 @@ Kalaxy - front
 __Authors__ Kristine Kirakosiani, Audrey Djibilian, Alice Darondeau, Cindy Bestaven, Gaëtan Sourisse, Justine Rougeulle, Mônica Salmazo, Nadège Hellmans, Klervy Le Dez
 
 Projet réalisé dans le cadre de la formation à Ada Tech School en 7 jours
+
+Ce répertoire fonctionne en pair avec une partie back-end : https://github.com/justine-rgl/projet_ada_plateforme_ecommerce_back
 _ _ _ _ 
 
 Objectifs du projet
